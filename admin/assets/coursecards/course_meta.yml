@@ -1,0 +1,28 @@
+---
+## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
+### Hugo Template Metadata
+title: "Tanzu Standard 201"
+date: "2021-05-18T18:24:22Z"
+draft: true
+# meta description
+description: "This course continues from the Tanzu Standard 101 course and focuses primarily on hands-on exercises to provide experience and understanding of common Tanzu Standard features and operations."
+# course thumbnail
+image: "https://modernapps.ninja/tanzustandard201_ts4682/admin/assets/images/tanzustandard201_ts4682.jpg"
+# taxonomy
+tags: ["Tanzu Portfiolio"]
+# teacher
+teacher: "Ninja Admins"
+# duration
+duration: "0 Hours"
+# course fee
+fee: "Free!"
+# apply url
+apply_url: "https://modernapps.github.io/tanzustandard201_ts4682"
+# type
+type: "course"
+### Extended Ninja Course Metadata
+content_id: ts4682
+course_short_title: tanzustandard201
+course_navbar_title: Tanzu Standard 201
+course_repo_name: tanzustandard201_ts4682
+---  
